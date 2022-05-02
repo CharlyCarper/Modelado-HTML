@@ -1,0 +1,5 @@
+#Esta carpeta se ignorara en un git push
+bin
+
+#Tambien se ignorara el recurso costos 2
+costos2.html
